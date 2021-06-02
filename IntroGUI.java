@@ -6,7 +6,7 @@ import javax.swing.*;
 /**
  * Write a description of class IntroGUI here.
  *
- * @author (your name)
+ * @author (Alfred Akinkoye)
  * @version (a version number or a date)
  */
 public class IntroGUI extends TicTacToe implements ActionListener
