@@ -2,7 +2,7 @@
 /**
  * A class modelling a tic-tac-toe (noughts and crosses, Xs and Os) game.
  * 
- * @author Lynn Marshall
+ * @author Alfred Akinkoye
  * @version November 8, 2012
  */
 
