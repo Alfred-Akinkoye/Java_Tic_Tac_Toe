@@ -10,7 +10,7 @@ import java.net.URL;
 /**
  * Write a description of class GUI here.
  *
- * @author (your name)
+ * @author (Alfred Akinkoye)
  * @version (a version number or a date)
  */
 public class gameGUI extends TicTacToe implements ActionListener
